@@ -1,0 +1,28 @@
+EventBridge
+      │
+      ▼
+Lambda Starts
+      │
+      ▼
+Find Stale Snapshots
+      │
+      ▼
+Find Unused Elastic IPs
+      │
+      ▼
+Generate Report
+      │
+      ▼
+Send SNS Email
+      │
+      ▼
+Delete Stale Snapshots
+      │
+      ▼
+Release Unused Elastic IPs
+      │
+      ▼
+CloudWatch Logs
+      │
+      ▼
+Lambda Ends
